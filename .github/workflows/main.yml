@@ -1,4 +1,4 @@
-Name sandip
+
 jobs:
   build:
     name: Hello world action
